@@ -1,0 +1,13 @@
+tk\mybatis\simple\mapper\UserMapper.class
+tk\mybatis\simple\model\SysRole.class
+tk\mybatis\simple\model\SysUser.class
+tk\mybatis\simple\mapper\RolePrivilegeMapper.class
+tk\mybatis\simple\model\SysRolePrivilege.class
+tk\mybatis\simple\mapper\UserRoleMapper.class
+tk\mybatis\simple\mapper\PrivilegeMapper.class
+tk\mybatis\simple\model\SysPrivilege.class
+tk\mybatis\simple\model\SysUserRole.class
+tk\mybatis\simple\mapper\CountryMapper.class
+tk\mybatis\generator\Generator.class
+tk\mybatis\simple\mapper\RoleMapper.class
+tk\mybatis\simple\model\Country.class

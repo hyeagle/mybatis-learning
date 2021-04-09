@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cec4ad41-3bab-433b-92da-a1405ffd341e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jBFZASDIjkEA8CIZbESUVj5mOu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../wr-task" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2131" y="-103" key="#com.intellij.ide.util.MemberChooser" timestamp="1603420481797">
+      <screen x="1366" y="-307" width="1920" height="1040" />
+    </state>
+    <state x="2131" y="-103" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-307.1920.1040@1366.-307.1920.1040" timestamp="1603420481797" />
+    <state x="526" y="193" key="FileChooserDialogImpl" timestamp="1604280617756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/1366.-307.1920.1040@0.0.1366.728" timestamp="1604280617756" />
+    <state x="2106" y="-32" key="FileChooserDialogImpl/0.0.1366.728/1366.-307.1920.1040@1366.-307.1920.1040" timestamp="1603332979012" />
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603362515943" />
+    <state x="2028" y="-79" width="596" height="584" key="find.popup" timestamp="1603271787293">
+      <screen x="1366" y="-307" width="1920" height="1040" />
+    </state>
+    <state x="2028" y="-79" width="596" height="584" key="find.popup/0.0.1366.728/1366.-307.1920.1040@1366.-307.1920.1040" timestamp="1603271787293" />
+    <state x="1979" y="-127" key="new project wizard" timestamp="1604134947059">
+      <screen x="1366" y="-307" width="1920" height="1040" />
+    </state>
+    <state x="1979" y="-127" key="new project wizard/0.0.1366.728/1366.-307.1920.1040@1366.-307.1920.1040" timestamp="1604134947059" />
+  </component>
+</project>

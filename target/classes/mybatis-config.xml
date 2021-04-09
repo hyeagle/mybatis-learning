@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <settings>
+        <setting name="logImpl" value="LOG4J"/>
+
+        <!-- 该配置可以将数据库下划线格式的字段转为对象中的驼峰式字段，
+         mapper.xml 中的 select 字段后可以不用加对应的 java 对象字段 -->
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+    </settings>
+    
+    <typeAliases>
+        <package name="tk.mybatis.simple.model"/>
+    </typeAliases>
+    
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="UNPOOLED">
+                <property name="driver" value="com.mysql.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql://10.208.37.212:2530/rossDaPing"/>
+                <property name="username" value="rossDaPing"/>
+                <property name="password" value="0d35f4fc20f9e411"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <mappers>
+        <package name="tk.mybatis.simple.mapper"/>
+<!--        <mapper resource="tk/mybatis/simple/mapper/CountryMapper.xml"/>-->
+    </mappers>
+</configuration>
